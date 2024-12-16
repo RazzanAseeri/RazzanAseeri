@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate **iOS Developer** and **UX/UI Designer** 
 ---
 
 #### 🔗 **Let’s Connect!**
-- [LinkedIn](https://www.linkedin.com/razzanaseeri)  
+- [LinkedIn]   www.linkedin.com/in/razzanaseeri
 
 
 Let’s build something amazing together! 🚀
